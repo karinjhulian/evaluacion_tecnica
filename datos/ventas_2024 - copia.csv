@@ -1,0 +1,841 @@
+fecha,region,categoria,producto,unidades,precio,descuento,canal
+28/06/2024,Cali,Hogar,Licuadora,1,164167,0.15,Tienda Fisica
+2024-06-02,Medellin,Ropa,Camiseta,11,40744,0.29,E-commerce
+2024-10-19,Bucaramanga,Electronica,Smartwatch,20,749490,0.33,App Movil
+2024-06-15,Bogota,Electronica,Laptop,12,3179873,0.05,Distribuidores
+2024-07-26,Barranquilla,Ropa,Zapatos,18,209617,0.06,Catalogo
+2024-01-16,Cali,Deportes,Colchoneta,16,71778,0.19,Catalogo
+2024-03-26,Cali,Alimentos,Snack Saludable,9,12999,,E-commerce
+21/08/2024,Bucaramanga,Electronica,Camara,2,-2152295,0.2,Distribuidores
+2024-09-21,Bogota,Hogar,Microondas,3,470084,0.3,Catalogo
+2024-04-25,Medellin,Deportes,Pesas,3,92525,0.28,E-commerce
+2024-09-24,Bucaramanga,Ropa,Vestido,14,138506,0.09,Tienda Fisica
+2024-03-02,Bucaramanga,Hogar,Cafetera,11,310968,,Catalogo
+2024-07-08,Cali,Ropa,Jean,2,98860,0.08,Catalogo
+2024-09-07,Barranquilla,Ropa,Chaqueta,6,173311,0.12,Catalogo
+2024-07-23,Barranquilla,Ropa,Zapatos,11,221472,0.23,Tienda Fisica
+2024-05-16,Medellin,Electronica,Tablet,9,1404911,0.02,Distribuidores
+18/08/2024,Bucaramanga,Alimentos,Cafe Premium,11,33640,0.18,E-commerce
+30/10/2024,Barranquilla,Hogar,Cafetera,1,312093,0.07,Catalogo
+2024-03-05,Barranquilla,Ropa,Chaqueta,8,147608,,Tienda Fisica
+2024-03-19,Bucaramanga,Deportes,Cuerda,11,25061,0.11,Distribuidores
+2024-03-01,Medellin,Electronica,Camara,19,2251795,0.3,E-commerce
+2024-10-19,Barranquilla,Ropa,Camiseta,7,48760,0.25,App Movil
+2024-11-22,Medellin,Alimentos,Aceite de Oliva,4,28093,0.25,Tienda Fisica
+2024-09-30,Medellin,Electronica,Laptop,1,3593605,0.26,Distribuidores
+2024-07-13,Cali,Hogar,Plancha,1,133877,0.31,App Movil
+07/06/2024,Barranquilla,Deportes,Colchoneta,6,69704,,Distribuidores
+2024-12-02,Barranquilla,Hogar,Plancha,5,130229,0.34,Tienda Fisica
+2024-11-01,Bucaramanga,Deportes,Cuerda,17,24877,0.32,E-commerce
+2024-04-24,Bogota,Ropa,Jean,13,93296,0.3,E-commerce
+2024-11-27,Bucaramanga,Ropa,Vestido,10,126700,0.04,App Movil
+2024-11-25,Medellin,Electronica,Audifonos,10,338111,0.02,Catalogo
+2024-12-23,Barranquilla,Ropa,Zapatos,1,251523,0.21,Tienda Fisica
+2024-08-21,Bucaramanga,Ropa,Chaqueta,17,157513,0.31,App Movil
+2024-11-09,Bucaramanga,Alimentos,Snack Saludable,18,11698,0.23,Tienda Fisica
+2024-02-10,Barranquilla,Deportes,Tenis,10,284463,0.33,App Movil
+2024-06-06,Barranquilla,Deportes,Pesas,20,88083,0.28,Tienda Fisica
+2024-04-07,Bogota,Alimentos,Cafe Premium,11,32150,0.14,Catalogo
+2024-07-14,Barranquilla,Deportes,Colchoneta,13,69005,0.34,Catalogo
+2024-06-01,Bucaramanga,Electronica,Audifonos,16,390710,0.16,App Movil
+2024-01-21,Medellin,Deportes,Colchoneta,8,68679,0.13,Catalogo
+2024-11-12,Cali,Electronica,Smartwatch,18,761370,0.24,App Movil
+02/06/2024,Medellin,Deportes,Bicicleta,8,1875013,0.3,App Movil
+09/06/2024,Barranquilla,Alimentos,Proteina,19,89118,0.18,App Movil
+2024-03-15,Bogota,Hogar,Aspiradora,14,741194,0.11,Distribuidores
+2024-02-23,Medellin,Hogar,Cafetera,14,307876,0.33,App Movil
+2024-11-18,Bucaramanga,Electronica,Smartwatch,16,864815,0.21,Tienda Fisica
+2024-01-26,Bucaramanga,Alimentos,Proteina,4,86200,,E-commerce
+24/11/2024,Cali,Alimentos,Snack Saludable,8,13214,0.24,Catalogo
+2024-09-26,Barranquilla,Ropa,Chaqueta,7,171833,0.21,App Movil
+2024-12-19,Bogota,Alimentos,Snack Saludable,7,12353,0.18,Distribuidores
+2024-06-02,Bogota,Ropa,Camiseta,1,50053,0.23,Tienda Fisica
+2024-08-11,Barranquilla,Hogar,Plancha,16,118439,0.12,Tienda Fisica
+2024-12-03,Bucaramanga,Hogar,Plancha,6,129726,0.12,Distribuidores
+15/06/2024,Medellin,Electronica,Camara,7,2076283,0.09,Catalogo
+2024-01-04,Barranquilla,Hogar,Aspiradora,20,646732,0.3,Distribuidores
+2024-02-22,Cali,Electronica,Camara,17,2229217,0.01,Tienda Fisica
+2024-07-15,Bucaramanga,Ropa,Chaqueta,20,150138,,Tienda Fisica
+2024-01-02,Barranquilla,Electronica,Tablet,20,1526217,0.01,Catalogo
+18/02/2024,Bucaramanga,Ropa,Vestido,8,123871,0.3,Tienda Fisica
+2024-06-15,Cali,Ropa,Vestido,14,143850,0.11,Catalogo
+13/08/2024,Bogota,Alimentos,Aceite de Oliva,7,29998,0.05,E-commerce
+2024-08-16,Medellin,Ropa,Chaqueta,20,168767,0.09,Tienda Fisica
+2024-10-20,Medellin,Alimentos,Cafe Premium,6,30866,0.06,Tienda Fisica
+2024-08-10,Cali,Ropa,Vestido,3,138813,0.14,Tienda Fisica
+2024-07-15,Medellin,Alimentos,Snack Saludable,17,13036,0.12,Tienda Fisica
+2024-06-10,Barranquilla,Ropa,Chaqueta,11,162110,0.08,Distribuidores
+2024-08-11,Barranquilla,Hogar,Plancha,16,118439,0.12,Tienda Fisica
+2024-06-13,Cali,Hogar,Plancha,15,124010,0.13,Catalogo
+2024-12-04,Barranquilla,Electronica,Laptop,1,3072533,0.02,App Movil
+2024-04-05,Bucaramanga,Deportes,Tenis,3,306052,0.1,Catalogo
+2024-04-27,Bucaramanga,Alimentos,Granola,1,16519,0.22,E-commerce
+2024-04-26,Medellin,Deportes,Bicicleta,7,1950334,0.21,E-commerce
+2024-09-07,Barranquilla,Ropa,Chaqueta,6,173311,0.12,Catalogo
+2024-12-17,Barranquilla,Ropa,Jean,3,105255,0.03,Tienda Fisica
+2024-05-06,Medellin,Alimentos,Granola,9,19695,0.11,Tienda Fisica
+2024-10-14,Barranquilla,Electronica,Audifonos,19,397484,0.25,App Movil
+2024-12-16,Bogota,Hogar,Aspiradora,3,650858,0.13,Tienda Fisica
+17/04/2024,Cali,Ropa,Chaqueta,20,169399,0.19,Tienda Fisica
+2024-12-14,Barranquilla,Alimentos,Cafe Premium,10,-32105,0.3,App Movil
+2024-07-03,Medellin,Deportes,Bicicleta,12,1990578,0.18,Distribuidores
+2024-06-27,Bucaramanga,Hogar,Aspiradora,5,667542,0.14,App Movil
+2024-12-10,Cali,Electronica,Tablet,7,1405258,0.02,E-commerce
+2024-08-30,Bucaramanga,Electronica,Laptop,1,3496747,0.18,Tienda Fisica
+2024-02-16,Bucaramanga,Hogar,Cafetera,2,265334,,Distribuidores
+2024-10-11,Bogota,Electronica,Audifonos,18,355335,0.21,Distribuidores
+2024-11-30,Medellin,Electronica,Camara,14,1972479,0.04,App Movil
+2024-06-22,Bogota,Deportes,Colchoneta,3,70139,0.34,Catalogo
+27/09/2024,Bogota,Alimentos,Cafe Premium,11,29856,0.3,Distribuidores
+2024-12-20,Bucaramanga,Hogar,Microondas,15,382588,0.13,E-commerce
+2024-01-10,Bucaramanga,Electronica,Laptop,19,3343121,0.27,Tienda Fisica
+2024-11-06,Barranquilla,Hogar,Plancha,20,111505,0.27,E-commerce
+2024-05-04,Bucaramanga,Hogar,Plancha,16,119514,0.12,E-commerce
+2024-02-05,Medellin,Ropa,Vestido,16,131646,0.22,Distribuidores
+2024-08-24,Barranquilla,Hogar,Microondas,18,401060,0.11,Distribuidores
+2024-02-28,Medellin,Ropa,Jean,2,105720,0.33,App Movil
+2024-08-05,Bogota,Alimentos,Aceite de Oliva,8,29733,0.32,App Movil
+2024-09-26,Medellin,Hogar,Microondas,6,436634,0.2,App Movil
+2024-10-01,Cali,Hogar,Microondas,19,444601,0.29,Catalogo
+2024-09-19,Barranquilla,Ropa,Chaqueta,4,176113,0.25,Catalogo
+2024-01-26,Medellin,Alimentos,Aceite de Oliva,2,29773,0.01,E-commerce
+2024-02-22,Medellin,Hogar,Cafetera,2,293606,0.12,Distribuidores
+2024-03-26,Barranquilla,Alimentos,Proteina,15,77400,0.3,Distribuidores
+2024-04-09,Bogota,Alimentos,Snack Saludable,17,12347,,App Movil
+2024-02-10,Barranquilla,Hogar,Plancha,5,110787,0.28,App Movil
+2024-09-28,Bogota,Hogar,Plancha,11,122658,0.04,App Movil
+2024-12-05,Cali,Electronica,Laptop,16,3253755,0.3,Distribuidores
+2024-10-01,Cali,Hogar,Microondas,19,444601,0.29,Catalogo
+2024-09-29,Cali,Alimentos,Snack Saludable,18,11305,0.34,App Movil
+2024-12-14,Bogota,Alimentos,Cafe Premium,9,34949,0.12,App Movil
+10/10/2024,Bogota,Deportes,Colchoneta,4,72845,0.27,App Movil
+2024-12-22,Cali,Electronica,Laptop,14,3435225,0.17,Tienda Fisica
+2024-10-10,Barranquilla,Alimentos,Cafe Premium,16,36195,0.27,App Movil
+2024-04-14,Bucaramanga,Alimentos,Aceite de Oliva,9,29042,0.22,App Movil
+2024-10-09,Cali,Hogar,Licuadora,18,183245,0.27,App Movil
+2024-09-21,Barranquilla,Ropa,Zapatos,8,210358,0.12,Tienda Fisica
+2024-07-30,Cali,Alimentos,Aceite de Oliva,2,29097,0.21,Distribuidores
+2024-10-07,Cali,Deportes,Bicicleta,5,-1712473,0.24,Catalogo
+2024-11-25,Cali,Alimentos,Proteina,17,78486,0.23,E-commerce
+2024-11-09,Bogota,Alimentos,Aceite de Oliva,10,27987,0.25,Tienda Fisica
+2024-10-13,Medellin,Hogar,Cafetera,13,308288,0.07,Catalogo
+2024-07-06,Bucaramanga,Hogar,Plancha,9,132914,0.09,App Movil
+2024-11-23,Bucaramanga,Alimentos,Aceite de Oliva,16,26185,0.26,Tienda Fisica
+2024-10-26,Bogota,Alimentos,Cafe Premium,12,36224,0.04,Tienda Fisica
+2024-11-02,Bucaramanga,Electronica,Audifonos,9,331539,0.25,Catalogo
+2024-06-03,Medellin,Ropa,Zapatos,10,207626,0.13,App Movil
+2024-05-25,Bucaramanga,Alimentos,Snack Saludable,14,11364,0.02,Distribuidores
+28/04/2024,Bucaramanga,Electronica,Smartwatch,6,803577,0.29,Tienda Fisica
+2024-03-11,Medellin,Electronica,Laptop,12,3595622,0.33,Distribuidores
+2024-09-02,Cali,Deportes,Colchoneta,9,72896,,App Movil
+2024-07-21,Cali,Alimentos,Proteina,10,77394,,E-commerce
+2024-08-14,Cali,Electronica,Audifonos,7,332681,,Catalogo
+2024-06-09,Medellin,Hogar,Cafetera,11,282130,0.24,Catalogo
+2024-05-04,Barranquilla,Deportes,Tenis,5,278851,0.32,App Movil
+2024-06-18,Bogota,Hogar,Cafetera,16,295729,,Catalogo
+2024-04-22,Cali,Deportes,Tenis,14,295773,0.18,Tienda Fisica
+2024-09-11,Cali,Electronica,Smartwatch,20,880386,0.08,E-commerce
+2024-04-01,Cali,Deportes,Bicicleta,8,1740063,0.28,Catalogo
+2024-08-19,Bogota,Deportes,Colchoneta,8,67541,0.12,Tienda Fisica
+2024-10-16,Medellin,Alimentos,Proteina,6,78178,0.3,E-commerce
+2024-08-26,Bucaramanga,Electronica,Camara,5,2350929,0.27,Distribuidores
+2024-09-07,Cali,Hogar,Aspiradora,6,739064,0.32,E-commerce
+2024-02-18,Bogota,Deportes,Pesas,12,95560,0.16,Catalogo
+2024-12-14,Bucaramanga,Alimentos,Proteina,11,94865,0.22,App Movil
+2024-05-07,Cali,Electronica,Audifonos,13,373949,0.29,Tienda Fisica
+2024-05-23,Medellin,Alimentos,Cafe Premium,7,30906,0.31,App Movil
+2024-08-28,Cali,Hogar,Licuadora,20,193172,,Distribuidores
+2024-02-10,Bogota,Alimentos,Proteina,12,95196,0.15,Distribuidores
+2024-03-21,Cali,Hogar,Plancha,18,123989,0.25,Tienda Fisica
+2024-02-24,Medellin,Deportes,Tenis,19,277127,0.1,Catalogo
+2024-03-02,Bucaramanga,Hogar,Cafetera,19,304103,,E-commerce
+22/10/2024,Bucaramanga,Alimentos,Snack Saludable,8,11705,0.05,Distribuidores
+2024-08-17,Bucaramanga,Alimentos,Snack Saludable,7,12757,,E-commerce
+2024-02-27,Barranquilla,Alimentos,Cafe Premium,12,31586,0.11,Catalogo
+2024-03-08,Bucaramanga,Ropa,Chaqueta,9,178314,0.0,Distribuidores
+2024-10-20,Bucaramanga,Electronica,Laptop,18,3318020,0.03,Catalogo
+2024-11-10,Barranquilla,Electronica,Tablet,13,1510885,0.17,Catalogo
+2024-05-18,Bogota,Hogar,Plancha,1,109998,0.23,Catalogo
+07/07/2024,Bogota,Alimentos,Proteina,9,87742,,App Movil
+2024-11-30,Bucaramanga,Electronica,Tablet,13,1370298,0.18,Tienda Fisica
+2024-02-08,Bucaramanga,Deportes,Pesas,4,102058,0.11,E-commerce
+2024-02-17,Barranquilla,Alimentos,Cafe Premium,3,35165,0.14,Distribuidores
+2024-05-04,Cali,Deportes,Cuerda,9,27603,0.14,Catalogo
+2024-03-01,Barranquilla,Hogar,Microondas,20,451896,0.14,E-commerce
+2024-12-05,Barranquilla,Alimentos,Snack Saludable,13,11741,0.06,App Movil
+2024-02-04,Bogota,Electronica,Smartwatch,7,727965,0.02,Distribuidores
+24/08/2024,Barranquilla,Alimentos,Snack Saludable,17,11698,0.25,Tienda Fisica
+2024-05-03,Medellin,Alimentos,Proteina,5,93623,0.32,Distribuidores
+2024-01-20,Barranquilla,Electronica,Camara,7,2318708,0.16,E-commerce
+2024-05-06,Bucaramanga,Alimentos,Aceite de Oliva,17,28327,0.25,Tienda Fisica
+26/12/2024,Cali,Alimentos,Proteina,19,86733,0.24,Tienda Fisica
+2024-03-21,Barranquilla,Electronica,Laptop,1,3673471,0.15,Catalogo
+2024-10-02,Bucaramanga,Electronica,Tablet,3,1429043,0.22,Tienda Fisica
+2024-06-29,Cali,Ropa,Zapatos,6,199943,,Distribuidores
+2024-03-01,Medellin,Alimentos,Granola,13,17879,0.35,Tienda Fisica
+2024-02-22,Bucaramanga,Electronica,Audifonos,9,365630,0.2,Distribuidores
+2024-11-22,Bogota,Deportes,Bicicleta,3,1844936,0.15,E-commerce
+2024-12-07,Bogota,Hogar,Licuadora,10,169187,0.24,Catalogo
+2024-12-19,Bucaramanga,Alimentos,Cafe Premium,15,35439,0.16,E-commerce
+03/05/2024,Cali,Electronica,Laptop,20,3236883,0.34,Catalogo
+18/07/2024,Bucaramanga,Hogar,Cafetera,19,288578,0.0,Tienda Fisica
+2024-09-09,Bogota,Hogar,Plancha,4,112585,0.06,Tienda Fisica
+2024-04-05,Bogota,Alimentos,Proteina,12,77938,0.18,App Movil
+2024-08-30,Bogota,Ropa,Camiseta,13,45798,,Distribuidores
+2024-09-06,Cali,Hogar,Plancha,5,128139,0.08,Distribuidores
+2024-02-24,Bucaramanga,Deportes,Cuerda,17,24339,,Tienda Fisica
+2024-10-15,Bogota,Alimentos,Snack Saludable,3,10936,0.22,Tienda Fisica
+2024-10-16,Bogota,Alimentos,Cafe Premium,18,32227,0.13,Distribuidores
+2024-05-13,Bogota,Ropa,Vestido,19,122495,0.02,Catalogo
+2024-07-06,Bucaramanga,Deportes,Tenis,17,269611,0.34,Tienda Fisica
+2024-08-22,Bogota,Deportes,Cuerda,16,26230,0.01,Tienda Fisica
+2024-01-23,Cali,Hogar,Cafetera,15,280097,0.29,Catalogo
+2024-09-30,Medellin,Deportes,Pesas,13,104423,0.3,E-commerce
+2024-10-31,Bucaramanga,Deportes,Tenis,3,267546,0.1,App Movil
+2024-05-05,Medellin,Hogar,Plancha,14,108717,0.19,Tienda Fisica
+2024-09-25,Bucaramanga,Deportes,Tenis,6,277473,0.32,App Movil
+2024-11-23,Barranquilla,Alimentos,Snack Saludable,15,13336,0.07,Distribuidores
+2024-01-07,Bucaramanga,Deportes,Bicicleta,16,1835421,0.12,Distribuidores
+2024-12-19,Barranquilla,Electronica,Smartwatch,5,794280,0.03,App Movil
+2024-03-31,Medellin,Ropa,Jean,11,104647,0.24,App Movil
+2024-01-28,Medellin,Ropa,Chaqueta,11,166406,0.22,Catalogo
+2024-10-26,Bogota,Hogar,Microondas,4,-395259,0.16,E-commerce
+2024-01-01,Barranquilla,Alimentos,Granola,14,17867,0.02,App Movil
+2024-09-05,Medellin,Ropa,Vestido,15,119518,0.1,Distribuidores
+2024-08-20,Bogota,Alimentos,Cafe Premium,9,31386,,Distribuidores
+2024-10-15,Barranquilla,Hogar,Plancha,16,122775,0.06,App Movil
+2024-11-11,Barranquilla,Electronica,Tablet,2,1475172,0.2,Catalogo
+2024-03-15,Bogota,Ropa,Zapatos,14,213178,0.1,E-commerce
+2024-01-10,Medellin,Hogar,Aspiradora,18,588596,,Tienda Fisica
+2024-11-30,Barranquilla,Alimentos,Granola,16,18070,0.29,Catalogo
+2024-11-10,Bogota,Alimentos,Aceite de Oliva,10,28406,0.34,App Movil
+2024-01-28,Cali,Deportes,Cuerda,16,23353,0.29,Tienda Fisica
+04/08/2024,Bogota,Alimentos,Snack Saludable,4,10876,0.05,App Movil
+2024-09-22,Bucaramanga,Hogar,Plancha,19,114631,0.13,App Movil
+2024-12-20,Bucaramanga,Hogar,Microondas,15,382588,0.13,E-commerce
+2024-07-27,Barranquilla,Hogar,Microondas,7,468788,0.32,Catalogo
+2024-02-25,Barranquilla,Electronica,Smartwatch,2,895556,0.09,Catalogo
+2024-03-31,Cali,Hogar,Aspiradora,1,609003,0.25,Tienda Fisica
+2024-02-13,Bogota,Ropa,Zapatos,12,215154,0.16,E-commerce
+2024-01-29,Barranquilla,Alimentos,Proteina,17,85328,0.2,E-commerce
+01/01/2024,Barranquilla,Electronica,Audifonos,4,332955,0.34,Distribuidores
+2024-08-01,Bucaramanga,Alimentos,Proteina,5,84754,0.09,App Movil
+03/01/2024,Bucaramanga,Electronica,Tablet,14,1594835,0.31,E-commerce
+2024-04-27,Barranquilla,Hogar,Aspiradora,8,666136,0.23,App Movil
+2024-06-25,Barranquilla,Alimentos,Cafe Premium,10,34226,0.21,Tienda Fisica
+04/12/2024,Medellin,Electronica,Tablet,18,1459314,0.22,Catalogo
+2024-01-02,Barranquilla,Hogar,Cafetera,15,281681,0.24,Distribuidores
+06/09/2024,Bucaramanga,Deportes,Pesas,20,100754,0.01,Tienda Fisica
+2024-12-30,Bogota,Deportes,Cuerda,8,28264,0.11,Tienda Fisica
+2024-03-12,Bogota,Deportes,Bicicleta,2,1993668,0.34,Tienda Fisica
+2024-09-24,Cali,Ropa,Vestido,2,146149,0.17,Tienda Fisica
+2024-11-29,Bogota,Hogar,Licuadora,8,170971,0.01,Tienda Fisica
+2024-05-03,Medellin,Alimentos,Granola,14,16207,0.12,Distribuidores
+07/07/2024,Bogota,Alimentos,Proteina,9,87742,,App Movil
+2024-05-20,Medellin,Electronica,Laptop,5,-3469177,0.24,E-commerce
+2024-04-24,Bogota,Electronica,Audifonos,4,388428,0.23,Distribuidores
+2024-02-07,Bogota,Hogar,Plancha,12,129012,0.19,Catalogo
+2024-02-12,Cali,Hogar,Licuadora,13,194025,0.22,E-commerce
+2024-07-24,Cali,Hogar,Microondas,19,439542,0.32,Tienda Fisica
+2024-08-08,Bucaramanga,Deportes,Colchoneta,10,-73512,0.33,E-commerce
+21/08/2024,Bucaramanga,Electronica,Camara,2,-2152295,0.2,Distribuidores
+2024-02-16,Barranquilla,Ropa,Jean,4,96037,0.24,Tienda Fisica
+2024-10-07,Barranquilla,Hogar,Licuadora,16,176877,0.0,E-commerce
+2024-08-04,Barranquilla,Ropa,Chaqueta,15,154080,0.16,Distribuidores
+2024-09-22,Cali,Electronica,Tablet,16,1694213,,Catalogo
+2024-06-12,Medellin,Hogar,Aspiradora,11,657577,,Tienda Fisica
+2024-08-17,Bucaramanga,Alimentos,Snack Saludable,7,12757,,E-commerce
+27/11/2024,Bucaramanga,Alimentos,Aceite de Oliva,8,28776,0.28,Catalogo
+07/11/2024,Cali,Ropa,Zapatos,17,229633,0.22,Distribuidores
+2024-07-13,Cali,Ropa,Vestido,18,118167,0.02,Catalogo
+2024-12-04,Bogota,Alimentos,Cafe Premium,2,34318,0.15,Tienda Fisica
+2024-03-17,Medellin,Electronica,Audifonos,4,316335,0.22,Distribuidores
+2024-03-11,Cali,Ropa,Jean,19,91434,0.09,Distribuidores
+2024-09-15,Barranquilla,Hogar,Plancha,20,110889,0.17,E-commerce
+2024-01-15,Medellin,Alimentos,Granola,7,19966,0.09,E-commerce
+15/04/2024,Cali,Deportes,Pesas,19,104366,0.24,Distribuidores
+2024-07-18,Barranquilla,Ropa,Chaqueta,18,175995,0.31,App Movil
+2024-09-14,Medellin,Alimentos,Cafe Premium,19,30034,0.23,App Movil
+2024-10-08,Bogota,Electronica,Camara,16,1960637,0.24,Distribuidores
+10/05/2024,Bogota,Hogar,Plancha,15,129291,0.05,Distribuidores
+2024-12-24,Medellin,Hogar,Cafetera,7,297855,0.28,Tienda Fisica
+2024-02-23,Barranquilla,Electronica,Tablet,16,1650849,0.24,App Movil
+2024-12-23,Barranquilla,Electronica,Tablet,9,-1408305,0.34,Distribuidores
+16/10/2024,Medellin,Ropa,Vestido,17,139677,0.05,Distribuidores
+2024-01-10,Cali,Alimentos,Snack Saludable,6,13654,0.12,Distribuidores
+2024-05-04,Bogota,Deportes,Bicicleta,19,1886556,0.05,E-commerce
+2024-08-23,Cali,Hogar,Licuadora,3,165296,0.06,Tienda Fisica
+19/02/2024,Bogota,Hogar,Microondas,13,468737,0.15,Distribuidores
+10/05/2024,Bogota,Ropa,Jean,4,-90925,0.18,App Movil
+2024-04-06,Bogota,Ropa,Jean,6,-86122,0.35,E-commerce
+2024-01-14,Cali,Ropa,Vestido,3,121122,0.03,Catalogo
+2024-04-18,Barranquilla,Hogar,Aspiradora,5,611155,0.08,App Movil
+2024-04-28,Bogota,Electronica,Camara,20,2293728,0.33,Distribuidores
+2024-09-26,Barranquilla,Hogar,Licuadora,11,203305,0.07,Tienda Fisica
+2024-02-12,Barranquilla,Alimentos,Snack Saludable,14,12607,0.29,Tienda Fisica
+2024-07-26,Medellin,Deportes,Pesas,14,94895,0.26,E-commerce
+26/05/2024,Bucaramanga,Deportes,Cuerda,14,26886,,Catalogo
+03/01/2024,Cali,Alimentos,Cafe Premium,20,35775,0.12,Tienda Fisica
+2024-04-07,Cali,Hogar,Cafetera,14,264371,0.22,Tienda Fisica
+2024-02-03,Medellin,Electronica,Laptop,5,2953583,0.3,Catalogo
+2024-06-17,Barranquilla,Electronica,Tablet,10,1598469,0.14,Catalogo
+2024-08-18,Cali,Ropa,Camiseta,18,48652,,Tienda Fisica
+2024-12-24,Cali,Alimentos,Proteina,3,88841,0.18,Catalogo
+2024-06-10,Bogota,Electronica,Tablet,19,1404072,0.29,E-commerce
+2024-09-06,Bogota,Hogar,Cafetera,15,264333,0.09,Catalogo
+2024-03-01,Medellin,Hogar,Aspiradora,4,614745,0.24,Distribuidores
+2024-11-26,Bogota,Deportes,Colchoneta,16,74735,0.08,E-commerce
+21/01/2024,Bucaramanga,Alimentos,Proteina,17,-92760,0.34,Catalogo
+2024-09-27,Cali,Ropa,Zapatos,13,231622,0.21,App Movil
+2024-09-19,Barranquilla,Ropa,Chaqueta,4,176113,0.25,Catalogo
+2024-12-12,Medellin,Deportes,Pesas,14,108192,0.18,Distribuidores
+2024-09-25,Bucaramanga,Alimentos,Proteina,12,86735,0.08,Distribuidores
+14/02/2024,Cali,Ropa,Vestido,13,129841,0.23,Catalogo
+2024-03-05,Medellin,Hogar,Licuadora,3,171476,0.14,Distribuidores
+2024-02-17,Barranquilla,Electronica,Tablet,1,1649634,0.32,App Movil
+2024-08-21,Cali,Hogar,Plancha,20,127132,0.33,Tienda Fisica
+06/10/2024,Cali,Alimentos,Snack Saludable,20,12253,0.34,Distribuidores
+2024-08-02,Bucaramanga,Alimentos,Proteina,19,84654,0.07,E-commerce
+2024-03-14,Medellin,Alimentos,Snack Saludable,17,12004,0.01,App Movil
+2024-12-28,Cali,Ropa,Camiseta,8,51266,0.18,App Movil
+2024-01-14,Barranquilla,Deportes,Colchoneta,13,76913,0.08,Tienda Fisica
+2024-06-01,Medellin,Ropa,Vestido,10,139909,0.24,Distribuidores
+2024-03-18,Bogota,Alimentos,Cafe Premium,12,35265,0.14,Tienda Fisica
+2024-06-21,Cali,Ropa,Camiseta,9,49982,0.3,Distribuidores
+2024-08-06,Bucaramanga,Alimentos,Proteina,3,85018,0.03,Distribuidores
+17/12/2024,Cali,Ropa,Jean,16,91464,0.32,App Movil
+2024-10-15,Bogota,Deportes,Cuerda,3,-23854,0.21,Distribuidores
+2024-06-01,Cali,Ropa,Jean,18,106276,0.05,Tienda Fisica
+2024-02-29,Medellin,Ropa,Zapatos,2,214740,0.17,Tienda Fisica
+2024-02-22,Barranquilla,Deportes,Bicicleta,2,1870709,0.0,Catalogo
+2024-07-22,Bucaramanga,Alimentos,Granola,1,18502,,Tienda Fisica
+2024-12-22,Barranquilla,Alimentos,Snack Saludable,5,11700,0.06,Catalogo
+2024-09-10,Bogota,Deportes,Colchoneta,7,82819,0.31,Tienda Fisica
+2024-09-07,Medellin,Hogar,Plancha,2,123718,0.29,App Movil
+2024-08-04,Medellin,Deportes,Pesas,15,91433,0.32,Distribuidores
+14/07/2024,Bogota,Hogar,Aspiradora,8,647530,0.34,Tienda Fisica
+2024-11-13,Medellin,Alimentos,Proteina,6,97244,0.28,E-commerce
+2024-04-01,Barranquilla,Electronica,Smartwatch,12,763713,0.2,Distribuidores
+2024-07-04,Bucaramanga,Hogar,Microondas,4,481439,0.28,E-commerce
+2024-08-03,Bucaramanga,Hogar,Aspiradora,13,722946,0.02,App Movil
+2024-03-15,Medellin,Deportes,Pesas,1,89694,0.17,Catalogo
+2024-08-04,Bogota,Alimentos,Granola,8,17555,,Distribuidores
+2024-11-20,Bucaramanga,Deportes,Bicicleta,20,1652047,0.31,App Movil
+01/12/2024,Bucaramanga,Electronica,Laptop,14,3241244,0.08,E-commerce
+2024-09-07,Medellin,Hogar,Cafetera,9,306516,0.13,App Movil
+2024-02-27,Bogota,Electronica,Smartwatch,17,760431,0.19,App Movil
+2024-05-19,Barranquilla,Deportes,Pesas,1,-94735,,Catalogo
+2024-09-29,Medellin,Deportes,Bicicleta,16,2046082,0.06,E-commerce
+2024-09-11,Bogota,Deportes,Colchoneta,13,76977,0.34,Tienda Fisica
+2024-05-21,Bucaramanga,Electronica,Tablet,13,1645929,0.0,Tienda Fisica
+2024-07-13,Bucaramanga,Hogar,Microondas,17,436666,0.23,E-commerce
+2024-03-03,Medellin,Deportes,Pesas,15,89601,0.25,Tienda Fisica
+2024-11-30,Cali,Alimentos,Aceite de Oliva,6,32150,0.14,Tienda Fisica
+2024-02-14,Bucaramanga,Ropa,Chaqueta,1,158757,0.1,Catalogo
+2024-08-16,Bucaramanga,Alimentos,Cafe Premium,8,34724,0.14,Tienda Fisica
+2024-01-04,Bucaramanga,Deportes,Cuerda,16,24820,0.11,Tienda Fisica
+2024-12-26,Cali,Alimentos,Cafe Premium,19,29937,0.33,App Movil
+2024-06-14,Bogota,Hogar,Plancha,9,109572,0.26,E-commerce
+2024-01-14,Bogota,Deportes,Bicicleta,18,1661879,,Distribuidores
+2024-08-14,Barranquilla,Electronica,Audifonos,20,353679,0.1,Catalogo
+2024-09-13,Bucaramanga,Hogar,Cafetera,2,312169,,Catalogo
+23/11/2024,Cali,Ropa,Camiseta,20,42985,0.34,Distribuidores
+2024-10-14,Medellin,Alimentos,Cafe Premium,14,30564,0.21,App Movil
+2024-10-23,Bogota,Ropa,Camiseta,19,48120,0.34,Distribuidores
+2024-02-05,Bucaramanga,Alimentos,Aceite de Oliva,15,-27270,0.09,E-commerce
+2024-05-05,Bogota,Electronica,Laptop,12,3186384,0.05,Catalogo
+2024-08-20,Cali,Ropa,Jean,13,92109,,Distribuidores
+2024-07-07,Cali,Deportes,Bicicleta,14,1882666,0.28,Tienda Fisica
+21/12/2024,Bogota,Electronica,Audifonos,15,356229,0.12,Distribuidores
+2024-02-06,Bucaramanga,Ropa,Vestido,9,130248,0.16,E-commerce
+2024-10-06,Medellin,Hogar,Plancha,18,135784,0.09,Catalogo
+2024-07-24,Barranquilla,Electronica,Camara,16,2264011,0.16,Tienda Fisica
+19/05/2024,Medellin,Alimentos,Proteina,11,79953,0.16,Tienda Fisica
+2024-08-10,Medellin,Deportes,Pesas,9,100128,0.32,App Movil
+02/05/2024,Cali,Ropa,Vestido,18,143619,0.07,Tienda Fisica
+2024-01-14,Cali,Hogar,Cafetera,19,287746,0.28,App Movil
+2024-10-20,Barranquilla,Deportes,Tenis,16,283295,0.04,Tienda Fisica
+2024-01-10,Bogota,Alimentos,Aceite de Oliva,8,30055,0.12,E-commerce
+2024-06-05,Medellin,Alimentos,Cafe Premium,20,35373,0.28,Distribuidores
+2024-10-20,Cali,Ropa,Chaqueta,4,149424,0.26,App Movil
+2024-05-04,Barranquilla,Ropa,Vestido,19,148585,0.35,Distribuidores
+2024-11-16,Cali,Alimentos,Cafe Premium,20,30391,0.13,App Movil
+2024-12-22,Bogota,Alimentos,Granola,13,20541,0.0,E-commerce
+2024-03-04,Barranquilla,Ropa,Zapatos,13,249847,,Distribuidores
+2024-05-20,Bogota,Alimentos,Aceite de Oliva,18,27245,,Tienda Fisica
+2024-10-04,Bogota,Ropa,Jean,15,87934,0.3,Distribuidores
+2024-11-09,Bucaramanga,Electronica,Camara,10,2239692,0.23,Tienda Fisica
+2024-08-05,Medellin,Alimentos,Cafe Premium,16,34927,0.32,Distribuidores
+2024-11-23,Medellin,Hogar,Licuadora,9,197559,0.11,Distribuidores
+2024-04-21,Bogota,Hogar,Plancha,17,137805,0.08,E-commerce
+2024-04-18,Medellin,Alimentos,Granola,8,20013,0.12,Catalogo
+2024-08-04,Medellin,Alimentos,Granola,7,19408,0.14,App Movil
+2024-03-27,Bogota,Alimentos,Proteina,17,90607,0.22,Distribuidores
+2024-03-25,Bucaramanga,Alimentos,Proteina,7,93788,0.28,E-commerce
+2024-06-28,Medellin,Hogar,Cafetera,14,305666,0.15,E-commerce
+2024-03-26,Bucaramanga,Ropa,Chaqueta,4,175112,0.06,App Movil
+2024-08-12,Cali,Deportes,Pesas,14,101483,0.05,Tienda Fisica
+2024-10-17,Bucaramanga,Hogar,Microondas,4,475117,0.2,App Movil
+12/02/2024,Bucaramanga,Deportes,Pesas,8,92437,0.1,Tienda Fisica
+2024-05-30,Medellin,Electronica,Laptop,8,3124965,0.2,Catalogo
+2024-04-09,Cali,Ropa,Camiseta,12,42519,0.0,E-commerce
+2024-08-01,Medellin,Alimentos,Aceite de Oliva,5,28185,0.11,App Movil
+2024-01-08,Cali,Ropa,Jean,19,101517,0.07,Distribuidores
+2024-10-05,Cali,Electronica,Audifonos,2,381500,0.15,App Movil
+2024-01-05,Barranquilla,Deportes,Colchoneta,20,71835,0.0,Distribuidores
+2024-09-25,Medellin,Electronica,Laptop,7,3375825,0.09,E-commerce
+2024-04-12,Medellin,Hogar,Aspiradora,9,671495,0.27,Distribuidores
+2024-10-21,Bucaramanga,Hogar,Plancha,10,118653,,E-commerce
+2024-12-19,Cali,Ropa,Camiseta,15,45503,0.08,E-commerce
+2024-08-19,Cali,Electronica,Laptop,6,3341023,0.06,E-commerce
+2024-07-30,Barranquilla,Deportes,Pesas,12,98468,0.04,Catalogo
+02/03/2024,Barranquilla,Hogar,Plancha,14,116373,0.09,Tienda Fisica
+30/05/2024,Bucaramanga,Deportes,Bicicleta,7,1663644,0.07,Catalogo
+2024-07-26,Barranquilla,Ropa,Zapatos,19,236944,0.2,Tienda Fisica
+01/10/2024,Bogota,Deportes,Colchoneta,14,70011,0.09,Tienda Fisica
+2024-01-16,Bogota,Deportes,Tenis,4,276601,0.16,Catalogo
+2024-07-26,Barranquilla,Ropa,Zapatos,18,209617,0.06,Catalogo
+2024-12-25,Cali,Ropa,Vestido,1,133790,0.07,App Movil
+2024-07-14,Bucaramanga,Alimentos,Snack Saludable,10,12161,0.21,App Movil
+2024-06-07,Medellin,Deportes,Cuerda,2,23064,0.08,Catalogo
+2024-01-06,Bogota,Hogar,Microondas,5,453741,0.17,Tienda Fisica
+2024-11-07,Medellin,Electronica,Audifonos,5,-339064,0.22,Tienda Fisica
+2024-08-15,Medellin,Ropa,Vestido,6,136202,0.16,App Movil
+2024-07-11,Bucaramanga,Hogar,Licuadora,2,173496,0.02,App Movil
+2024-12-28,Cali,Alimentos,Aceite de Oliva,1,-26027,,E-commerce
+2024-09-10,Medellin,Electronica,Camara,2,1894865,,Distribuidores
+2024-09-14,Bogota,Deportes,Colchoneta,20,80328,0.27,E-commerce
+2024-03-09,Medellin,Ropa,Zapatos,20,236501,0.26,Catalogo
+2024-03-29,Medellin,Hogar,Plancha,13,127726,0.21,Tienda Fisica
+2024-09-18,Bucaramanga,Deportes,Bicicleta,10,1671306,0.04,Tienda Fisica
+2024-04-20,Barranquilla,Electronica,Smartwatch,15,788179,0.13,Catalogo
+2024-12-01,Barranquilla,Electronica,Smartwatch,11,769653,,E-commerce
+2024-01-16,Barranquilla,Ropa,Jean,18,103267,0.09,Catalogo
+2024-03-22,Medellin,Hogar,Cafetera,19,308807,0.34,App Movil
+24/09/2024,Bogota,Electronica,Smartwatch,1,795006,0.07,App Movil
+2024-07-30,Cali,Alimentos,Aceite de Oliva,2,29097,0.21,Distribuidores
+2024-01-09,Cali,Ropa,Chaqueta,12,153645,0.23,Tienda Fisica
+24/01/2024,Medellin,Alimentos,Snack Saludable,20,10964,0.07,Catalogo
+06/11/2024,Bucaramanga,Alimentos,Snack Saludable,8,12589,0.08,App Movil
+2024-01-01,Bucaramanga,Hogar,Microondas,19,381400,0.21,Catalogo
+2024-12-03,Medellin,Ropa,Vestido,5,122813,0.25,E-commerce
+2024-12-24,Cali,Alimentos,Proteina,3,88841,0.18,Catalogo
+2024-11-28,Cali,Deportes,Tenis,18,300549,,E-commerce
+2024-04-05,Medellin,Hogar,Microondas,20,453317,0.04,Distribuidores
+2024-03-26,Medellin,Deportes,Pesas,5,86514,0.03,E-commerce
+2024-10-02,Bucaramanga,Alimentos,Snack Saludable,15,13698,0.2,Distribuidores
+17/01/2024,Cali,Electronica,Tablet,9,1374821,0.32,Catalogo
+2024-03-08,Bogota,Ropa,Camiseta,14,45549,0.19,E-commerce
+2024-04-12,Cali,Hogar,Plancha,7,118738,0.14,App Movil
+2024-04-24,Bucaramanga,Ropa,Zapatos,5,223559,0.18,Distribuidores
+25/01/2024,Cali,Ropa,Chaqueta,4,175974,0.15,Distribuidores
+2024-03-30,Medellin,Alimentos,Cafe Premium,11,36178,0.17,Distribuidores
+2024-06-20,Cali,Electronica,Camara,12,2184184,0.33,Distribuidores
+2024-06-12,Bucaramanga,Ropa,Chaqueta,5,150033,0.13,Tienda Fisica
+2024-02-01,Cali,Alimentos,Snack Saludable,1,13632,0.33,Catalogo
+2024-09-04,Cali,Hogar,Plancha,4,121145,0.24,Catalogo
+2024-04-20,Bucaramanga,Ropa,Camiseta,4,48658,0.19,Tienda Fisica
+2024-05-08,Medellin,Hogar,Plancha,1,111954,0.13,Tienda Fisica
+2024-04-18,Barranquilla,Alimentos,Snack Saludable,15,11229,0.05,Catalogo
+2024-05-18,Bogota,Alimentos,Proteina,9,95610,0.2,Tienda Fisica
+2024-03-11,Bogota,Alimentos,Snack Saludable,19,11518,0.02,App Movil
+2024-01-31,Medellin,Hogar,Licuadora,20,195703,0.2,Distribuidores
+2024-03-05,Barranquilla,Hogar,Microondas,19,477514,,Tienda Fisica
+2024-06-21,Bucaramanga,Ropa,Vestido,18,132920,0.2,App Movil
+2024-03-22,Barranquilla,Alimentos,Granola,13,16398,0.06,App Movil
+2024-09-23,Cali,Electronica,Laptop,19,3486795,0.22,Tienda Fisica
+2024-06-25,Cali,Alimentos,Aceite de Oliva,18,25258,0.32,Catalogo
+2024-12-14,Cali,Alimentos,Aceite de Oliva,8,27687,0.26,Tienda Fisica
+2024-08-11,Bucaramanga,Deportes,Tenis,11,311620,0.29,Distribuidores
+2024-09-26,Barranquilla,Hogar,Licuadora,18,163465,0.12,Catalogo
+2024-06-27,Bogota,Ropa,Jean,12,92268,0.15,E-commerce
+2024-02-16,Medellin,Electronica,Camara,1,1916554,,App Movil
+2024-09-07,Cali,Deportes,Cuerda,8,25172,0.27,Catalogo
+2024-09-19,Medellin,Ropa,Zapatos,3,250053,0.08,Catalogo
+2024-03-17,Bucaramanga,Ropa,Zapatos,2,198640,0.33,App Movil
+2024-03-15,Bogota,Ropa,Camiseta,13,41303,0.16,Distribuidores
+2024-03-23,Cali,Ropa,Jean,12,108003,0.18,E-commerce
+2024-10-16,Cali,Alimentos,Proteina,9,97576,0.14,App Movil
+30/04/2024,Barranquilla,Deportes,Cuerda,3,24968,,Distribuidores
+2024-09-01,Bogota,Electronica,Audifonos,13,358028,0.2,Tienda Fisica
+15/07/2024,Barranquilla,Ropa,Vestido,8,125892,0.34,App Movil
+2024-11-24,Bucaramanga,Ropa,Camiseta,6,44674,,Catalogo
+2024-10-01,Cali,Deportes,Bicicleta,15,1758738,0.09,E-commerce
+2024-02-22,Bucaramanga,Electronica,Smartwatch,12,785197,0.16,E-commerce
+2024-10-31,Bogota,Ropa,Vestido,8,138372,0.12,Tienda Fisica
+2024-01-31,Medellin,Deportes,Tenis,3,255073,0.08,Distribuidores
+2024-06-22,Bucaramanga,Deportes,Tenis,11,256614,,Tienda Fisica
+2024-07-22,Bogota,Ropa,Chaqueta,13,162360,0.09,Distribuidores
+2024-03-19,Bucaramanga,Ropa,Vestido,12,143250,0.34,App Movil
+2024-03-16,Bucaramanga,Hogar,Aspiradora,9,724491,0.05,Tienda Fisica
+2024-12-28,Cali,Ropa,Camiseta,8,51266,0.18,App Movil
+2024-03-12,Barranquilla,Electronica,Smartwatch,8,735418,0.23,E-commerce
+2024-09-10,Bogota,Deportes,Colchoneta,7,82819,0.31,Tienda Fisica
+2024-12-19,Barranquilla,Electronica,Smartwatch,5,794280,0.03,App Movil
+2024-05-25,Barranquilla,Electronica,Audifonos,17,-358217,0.33,App Movil
+2024-03-27,Barranquilla,Alimentos,Snack Saludable,16,12449,0.04,App Movil
+2024-09-25,Bucaramanga,Alimentos,Proteina,12,86735,0.08,Distribuidores
+2024-05-04,Medellin,Deportes,Tenis,4,306489,0.08,Tienda Fisica
+2024-07-29,Bucaramanga,Ropa,Zapatos,2,202825,0.13,Catalogo
+2024-11-29,Medellin,Deportes,Tenis,11,271979,0.02,Distribuidores
+2024-08-30,Cali,Electronica,Smartwatch,19,765509,,App Movil
+2024-02-13,Medellin,Deportes,Pesas,15,106723,,Catalogo
+2024-07-29,Barranquilla,Deportes,Cuerda,3,23283,0.11,App Movil
+2024-02-01,Cali,Hogar,Aspiradora,2,585137,,App Movil
+2024-12-01,Barranquilla,Ropa,Chaqueta,20,172353,0.03,E-commerce
+2024-07-17,Barranquilla,Ropa,Jean,5,89390,0.08,Catalogo
+2024-02-01,Barranquilla,Electronica,Laptop,4,3078925,0.07,Distribuidores
+2024-12-19,Barranquilla,Ropa,Zapatos,6,204218,0.24,Catalogo
+2024-07-31,Bucaramanga,Alimentos,Aceite de Oliva,13,25844,0.08,App Movil
+2024-02-13,Bogota,Ropa,Zapatos,12,215154,0.16,E-commerce
+2024-04-08,Bogota,Ropa,Zapatos,12,237842,0.09,Catalogo
+2024-11-14,Cali,Hogar,Licuadora,15,184393,0.17,Tienda Fisica
+17/11/2024,Medellin,Deportes,Pesas,9,93094,0.25,App Movil
+26/02/2024,Barranquilla,Hogar,Aspiradora,15,629222,0.22,App Movil
+2024-12-11,Bucaramanga,Alimentos,Granola,20,20381,0.29,Tienda Fisica
+2024-04-08,Bogota,Electronica,Camara,19,2226920,0.14,Tienda Fisica
+2024-07-06,Bucaramanga,Alimentos,Proteina,16,96782,0.27,E-commerce
+2024-02-15,Bogota,Hogar,Cafetera,11,287648,0.1,Tienda Fisica
+2024-08-03,Bogota,Electronica,Audifonos,9,369495,,App Movil
+2024-04-27,Bucaramanga,Electronica,Laptop,1,3679658,0.24,App Movil
+11/10/2024,Medellin,Alimentos,Aceite de Oliva,10,26182,0.11,Catalogo
+2024-07-31,Bucaramanga,Alimentos,Aceite de Oliva,13,25844,0.08,App Movil
+2024-09-08,Medellin,Alimentos,Snack Saludable,9,11994,0.26,App Movil
+2024-10-11,Barranquilla,Hogar,Cafetera,12,329265,0.23,Tienda Fisica
+2024-02-16,Bogota,Hogar,Licuadora,12,165839,0.25,Catalogo
+2024-05-21,Cali,Electronica,Audifonos,9,372410,0.33,Distribuidores
+2024-03-22,Cali,Hogar,Aspiradora,12,625688,0.13,Tienda Fisica
+2024-05-04,Bogota,Alimentos,Granola,13,20322,0.33,Distribuidores
+2024-12-12,Medellin,Electronica,Smartwatch,2,811874,0.25,E-commerce
+2024-10-23,Bucaramanga,Hogar,Cafetera,15,293029,,Distribuidores
+2024-08-18,Barranquilla,Alimentos,Cafe Premium,17,29877,0.17,App Movil
+2024-12-05,Medellin,Deportes,Tenis,2,260837,,Catalogo
+2024-06-14,Medellin,Deportes,Colchoneta,18,77267,0.09,Tienda Fisica
+2024-07-14,Barranquilla,Ropa,Camiseta,11,51366,0.02,Catalogo
+2024-10-10,Bogota,Alimentos,Granola,16,16396,0.14,Catalogo
+2024-02-02,Barranquilla,Hogar,Microondas,11,434974,0.15,Catalogo
+2024-11-26,Medellin,Ropa,Chaqueta,4,149858,0.07,E-commerce
+2024-06-24,Bogota,Alimentos,Proteina,4,89806,0.29,Tienda Fisica
+2024-09-16,Medellin,Ropa,Camiseta,13,45037,0.08,App Movil
+2024-06-09,Medellin,Hogar,Licuadora,14,174451,0.13,E-commerce
+2024-10-09,Bucaramanga,Hogar,Cafetera,6,287840,0.19,Catalogo
+2024-09-10,Cali,Deportes,Pesas,10,93522,0.2,Distribuidores
+11/11/2024,Medellin,Alimentos,Granola,3,17595,0.18,Distribuidores
+22/10/2024,Cali,Ropa,Chaqueta,5,178200,0.23,Catalogo
+2024-10-24,Cali,Ropa,Jean,4,99669,0.12,Tienda Fisica
+2024-10-11,Barranquilla,Hogar,Microondas,14,394198,0.35,Distribuidores
+2024-10-10,Medellin,Deportes,Colchoneta,14,79967,0.13,E-commerce
+2024-08-21,Cali,Deportes,Bicicleta,16,1724262,0.08,Catalogo
+2024-08-13,Barranquilla,Hogar,Aspiradora,10,659969,,Distribuidores
+2024-12-22,Barranquilla,Hogar,Cafetera,5,265575,0.27,E-commerce
+2024-10-08,Cali,Electronica,Laptop,19,3158476,0.34,App Movil
+2024-04-15,Bucaramanga,Alimentos,Cafe Premium,18,31348,0.05,Distribuidores
+2024-04-21,Barranquilla,Alimentos,Granola,11,17564,0.32,E-commerce
+09/06/2024,Bogota,Alimentos,Cafe Premium,19,32614,0.32,Tienda Fisica
+2024-04-12,Bucaramanga,Electronica,Smartwatch,6,856343,,App Movil
+2024-12-23,Barranquilla,Electronica,Audifonos,2,336392,0.32,E-commerce
+2024-06-06,Cali,Electronica,Camara,9,1971752,0.0,Catalogo
+2024-10-29,Barranquilla,Alimentos,Cafe Premium,1,29550,0.08,Tienda Fisica
+2024-06-21,Medellin,Deportes,Cuerda,20,-25269,0.12,App Movil
+2024-09-01,Bogota,Electronica,Tablet,19,1434822,0.24,E-commerce
+2024-05-09,Bucaramanga,Deportes,Colchoneta,11,69028,,E-commerce
+2024-08-12,Cali,Deportes,Pesas,14,101483,0.05,Tienda Fisica
+2024-06-16,Bucaramanga,Alimentos,Granola,3,19059,0.16,E-commerce
+2024-01-15,Barranquilla,Electronica,Audifonos,6,389709,0.27,Tienda Fisica
+2024-09-12,Medellin,Hogar,Microondas,8,469638,,E-commerce
+2024-01-17,Cali,Hogar,Licuadora,17,172710,,Tienda Fisica
+2024-01-15,Medellin,Alimentos,Granola,7,19966,0.09,E-commerce
+2024-04-02,Cali,Ropa,Camiseta,11,44449,,Distribuidores
+2024-01-04,Barranquilla,Electronica,Laptop,8,2934374,0.05,E-commerce
+2024-04-02,Bogota,Hogar,Aspiradora,11,687543,0.06,Catalogo
+2024-04-02,Bucaramanga,Alimentos,Cafe Premium,5,31945,0.11,App Movil
+2024-04-20,Barranquilla,Hogar,Microondas,19,480544,0.18,Distribuidores
+2024-01-10,Cali,Ropa,Camiseta,8,51523,0.18,Catalogo
+2024-11-03,Bucaramanga,Deportes,Bicicleta,8,2016976,0.1,Tienda Fisica
+2024-11-06,Medellin,Ropa,Jean,13,99154,0.09,Catalogo
+2024-05-08,Medellin,Hogar,Plancha,2,117268,0.15,Tienda Fisica
+2024-08-15,Bogota,Ropa,Chaqueta,5,165178,,App Movil
+2024-12-30,Medellin,Hogar,Licuadora,13,185106,0.24,Distribuidores
+14/05/2024,Bucaramanga,Alimentos,Granola,19,17997,0.08,Catalogo
+2024-08-18,Medellin,Electronica,Audifonos,19,368404,0.13,Catalogo
+2024-06-29,Bogota,Hogar,Plancha,10,122847,0.31,Tienda Fisica
+20/10/2024,Barranquilla,Electronica,Laptop,3,3503621,0.03,E-commerce
+2024-10-01,Cali,Electronica,Audifonos,9,348516,0.17,Catalogo
+2024-09-18,Bucaramanga,Ropa,Vestido,19,122028,0.01,App Movil
+2024-04-12,Cali,Hogar,Microondas,19,471749,0.35,Catalogo
+2024-02-09,Bucaramanga,Ropa,Chaqueta,4,164082,0.32,Distribuidores
+09/04/2024,Cali,Alimentos,Aceite de Oliva,6,32084,0.03,Catalogo
+2024-09-26,Cali,Hogar,Licuadora,12,193704,0.23,Tienda Fisica
+2024-01-30,Bucaramanga,Alimentos,Aceite de Oliva,6,25680,,Tienda Fisica
+2024-12-26,Bucaramanga,Ropa,Camiseta,19,43020,0.33,App Movil
+2024-03-17,Bucaramanga,Ropa,Jean,2,104629,0.28,E-commerce
+2024-09-09,Medellin,Electronica,Smartwatch,19,851894,0.16,E-commerce
+2024-01-19,Cali,Hogar,Plancha,18,112443,0.04,App Movil
+2024-06-12,Bucaramanga,Hogar,Licuadora,1,202309,0.27,E-commerce
+2024-10-01,Bogota,Electronica,Camara,3,2179821,0.29,Catalogo
+2024-12-03,Bogota,Electronica,Smartwatch,5,755728,,Tienda Fisica
+2024-12-07,Cali,Electronica,Audifonos,18,362440,0.31,Tienda Fisica
+2024-11-29,Medellin,Deportes,Cuerda,15,22961,0.3,E-commerce
+2024-05-08,Medellin,Electronica,Audifonos,20,368959,0.16,Catalogo
+2024-11-09,Cali,Hogar,Aspiradora,13,745975,0.26,E-commerce
+2024-06-19,Barranquilla,Electronica,Tablet,15,1405853,0.31,App Movil
+2024-12-06,Bucaramanga,Ropa,Jean,13,92787,0.24,E-commerce
+2024-05-24,Bogota,Ropa,Camiseta,14,48400,0.14,E-commerce
+2024-12-10,Cali,Alimentos,Proteina,13,81907,0.0,Tienda Fisica
+2024-10-09,Cali,Deportes,Cuerda,6,27735,0.09,Distribuidores
+2024-04-23,Bucaramanga,Hogar,Aspiradora,12,667439,0.3,Catalogo
+2024-11-12,Cali,Hogar,Microondas,4,390587,0.03,E-commerce
+2024-11-18,Bogota,Hogar,Cafetera,19,283656,0.02,App Movil
+2024-06-09,Bucaramanga,Ropa,Vestido,7,123816,0.25,E-commerce
+05/09/2024,Bucaramanga,Electronica,Audifonos,3,331312,0.18,App Movil
+2024-09-07,Bucaramanga,Hogar,Cafetera,16,307828,,E-commerce
+2024-04-26,Cali,Hogar,Aspiradora,10,700445,0.21,Distribuidores
+2024-07-03,Bogota,Deportes,Cuerda,10,24518,0.31,Tienda Fisica
+29/10/2024,Bogota,Deportes,Cuerda,13,24909,0.04,E-commerce
+2024-08-10,Bucaramanga,Alimentos,Proteina,18,91250,0.06,Distribuidores
+2024-03-07,Bucaramanga,Electronica,Audifonos,19,398705,0.2,Tienda Fisica
+2024-12-10,Bucaramanga,Ropa,Zapatos,2,246049,0.07,App Movil
+2024-12-17,Medellin,Hogar,Plancha,9,132123,,Tienda Fisica
+21/09/2024,Medellin,Hogar,Microondas,6,412754,0.15,App Movil
+2024-08-07,Bucaramanga,Ropa,Vestido,14,126409,0.14,Catalogo
+08/03/2024,Cali,Deportes,Pesas,16,99072,0.02,Tienda Fisica
+2024-03-08,Bucaramanga,Ropa,Chaqueta,9,178314,0.0,Distribuidores
+2024-03-08,Medellin,Electronica,Camara,1,2007479,0.21,App Movil
+2024-11-16,Barranquilla,Alimentos,Proteina,7,82175,,Tienda Fisica
+2024-08-22,Barranquilla,Hogar,Aspiradora,1,663320,0.09,App Movil
+2024-08-29,Bogota,Electronica,Laptop,14,3023985,0.05,Distribuidores
+2024-02-07,Barranquilla,Deportes,Cuerda,19,23715,,Catalogo
+2024-07-26,Cali,Hogar,Plancha,16,131780,0.31,Distribuidores
+2024-03-20,Medellin,Alimentos,Proteina,7,97085,0.2,Distribuidores
+2024-08-26,Cali,Ropa,Camiseta,6,41331,0.33,App Movil
+2024-06-14,Bogota,Alimentos,Granola,11,17736,0.25,Tienda Fisica
+2024-05-05,Medellin,Ropa,Vestido,10,136931,0.12,Tienda Fisica
+14/06/2024,Medellin,Hogar,Cafetera,9,288809,0.16,Tienda Fisica
+2024-03-25,Bucaramanga,Alimentos,Proteina,7,93788,0.28,E-commerce
+2024-11-15,Bucaramanga,Deportes,Cuerda,2,24790,0.21,Distribuidores
+2024-08-14,Medellin,Electronica,Tablet,16,1634810,0.3,Catalogo
+2024-07-06,Bogota,Deportes,Cuerda,1,24153,0.04,Catalogo
+2024-11-24,Medellin,Deportes,Pesas,17,98878,0.21,Tienda Fisica
+2024-01-07,Medellin,Hogar,Licuadora,6,184339,0.12,Tienda Fisica
+2024-02-04,Barranquilla,Hogar,Cafetera,10,318734,,Catalogo
+2024-07-21,Cali,Deportes,Bicicleta,2,1955587,0.32,E-commerce
+2024-01-16,Medellin,Alimentos,Aceite de Oliva,15,25444,0.02,App Movil
+15/04/2024,Bogota,Hogar,Plancha,7,125591,0.28,App Movil
+2024-10-07,Bogota,Hogar,Licuadora,20,-206337,0.31,Distribuidores
+2024-12-27,Barranquilla,Electronica,Camara,10,2174935,0.17,App Movil
+2024-07-29,Bucaramanga,Ropa,Jean,13,91435,0.25,Catalogo
+2024-07-04,Bogota,Ropa,Zapatos,14,233837,0.09,E-commerce
+2024-05-17,Barranquilla,Hogar,Plancha,19,119009,0.34,App Movil
+2024-02-11,Barranquilla,Deportes,Colchoneta,18,68477,,Tienda Fisica
+2024-04-01,Bucaramanga,Deportes,Tenis,15,295142,0.11,App Movil
+2024-02-21,Medellin,Hogar,Licuadora,19,194850,,Tienda Fisica
+2024-02-10,Bogota,Alimentos,Cafe Premium,7,35480,0.19,Distribuidores
+16/01/2024,Barranquilla,Deportes,Tenis,6,276776,0.32,Catalogo
+2024-10-14,Bogota,Ropa,Vestido,8,132160,0.09,Distribuidores
+16/11/2024,Medellin,Electronica,Tablet,3,1408896,0.06,Distribuidores
+2024-03-07,Barranquilla,Alimentos,Aceite de Oliva,2,31020,0.18,App Movil
+2024-08-15,Cali,Deportes,Colchoneta,17,85604,0.14,App Movil
+2024-01-01,Bucaramanga,Deportes,Cuerda,14,22839,0.18,Catalogo
+2024-05-08,Medellin,Ropa,Camiseta,9,41908,0.11,App Movil
+2024-07-02,Barranquilla,Electronica,Smartwatch,4,753362,0.06,Catalogo
+2024-01-20,Cali,Hogar,Microondas,5,457678,0.16,Catalogo
+2024-09-30,Bogota,Hogar,Aspiradora,19,722557,0.28,E-commerce
+2024-10-19,Bucaramanga,Alimentos,Aceite de Oliva,13,26387,0.09,E-commerce
+2024-03-30,Bucaramanga,Electronica,Smartwatch,15,-793953,,E-commerce
+2024-01-20,Barranquilla,Electronica,Smartwatch,20,851235,0.1,Catalogo
+2024-10-10,Bogota,Alimentos,Aceite de Oliva,17,28130,0.19,Catalogo
+2024-02-07,Bogota,Ropa,Zapatos,15,220859,0.16,E-commerce
+2024-08-27,Medellin,Deportes,Pesas,18,86140,,App Movil
+05/02/2024,Cali,Alimentos,Aceite de Oliva,11,31740,0.18,Catalogo
+2024-05-10,Bucaramanga,Deportes,Bicicleta,7,-1674336,0.3,E-commerce
+15/07/2024,Bucaramanga,Hogar,Licuadora,10,169516,0.29,App Movil
+2024-02-20,Bogota,Deportes,Cuerda,1,28556,0.32,App Movil
+2024-08-20,Bucaramanga,Electronica,Tablet,15,1383817,0.11,E-commerce
+2024-05-23,Barranquilla,Hogar,Plancha,3,123701,0.21,App Movil
+2024-11-28,Bogota,Deportes,Cuerda,12,25285,0.32,Tienda Fisica
+06/11/2024,Bucaramanga,Ropa,Zapatos,13,247473,0.07,Tienda Fisica
+11/02/2024,Bucaramanga,Deportes,Tenis,14,303417,0.21,Tienda Fisica
+2024-05-18,Barranquilla,Deportes,Bicicleta,7,1960999,0.02,E-commerce
+2024-01-20,Medellin,Alimentos,Proteina,13,79557,,Distribuidores
+2024-12-19,Medellin,Deportes,Bicicleta,7,1986218,0.17,Tienda Fisica
+2024-05-09,Medellin,Ropa,Jean,13,87257,0.35,Catalogo
+25/09/2024,Bucaramanga,Deportes,Pesas,5,105014,0.08,Catalogo
+12/06/2024,Cali,Ropa,Camiseta,3,44345,0.31,Tienda Fisica
+2024-07-22,Bucaramanga,Ropa,Vestido,9,118190,0.23,Catalogo
+2024-04-27,Medellin,Alimentos,Proteina,12,79796,0.07,Catalogo
+2024-07-25,Bucaramanga,Electronica,Laptop,12,3243757,0.17,Distribuidores
+2024-07-03,Bogota,Ropa,Jean,4,91104,,E-commerce
+09/06/2024,Bogota,Ropa,Vestido,17,127052,0.14,Distribuidores
+2024-08-14,Bucaramanga,Ropa,Jean,18,85730,0.03,Catalogo
+2024-02-28,Cali,Alimentos,Snack Saludable,8,13222,0.3,App Movil
+2024-12-01,Bogota,Alimentos,Aceite de Oliva,16,28448,0.2,E-commerce
+05/07/2024,Barranquilla,Alimentos,Snack Saludable,11,13166,0.31,E-commerce
+30/05/2024,Bogota,Alimentos,Aceite de Oliva,5,30386,0.25,Catalogo
+2024-12-23,Barranquilla,Electronica,Tablet,9,-1408305,0.34,Distribuidores
+2024-06-08,Bucaramanga,Hogar,Microondas,18,420839,0.08,Tienda Fisica
+2024-08-02,Medellin,Alimentos,Granola,20,16823,0.09,E-commerce
+2024-01-01,Bucaramanga,Electronica,Camara,7,2081216,0.02,App Movil
+2024-09-23,Barranquilla,Hogar,Aspiradora,7,701499,,Tienda Fisica
+2024-05-30,Medellin,Deportes,Bicicleta,7,2018606,0.11,Tienda Fisica
+2024-04-16,Barranquilla,Electronica,Laptop,15,3520816,0.02,Tienda Fisica
+2024-05-14,Bucaramanga,Electronica,Laptop,3,3403866,0.31,E-commerce
+27/11/2024,Medellin,Hogar,Microondas,9,446417,0.18,E-commerce
+28/02/2024,Bogota,Ropa,Jean,16,97796,0.32,E-commerce
+2024-09-10,Medellin,Alimentos,Proteina,16,83313,0.12,Tienda Fisica
+2024-10-03,Cali,Deportes,Colchoneta,17,82915,0.13,Tienda Fisica
+2024-05-21,Medellin,Deportes,Bicicleta,8,1685810,0.11,E-commerce
+2024-04-05,Barranquilla,Ropa,Jean,1,-99226,0.3,App Movil
+2024-03-17,Bucaramanga,Electronica,Tablet,3,1722719,0.04,Distribuidores
+13/11/2024,Barranquilla,Ropa,Jean,12,103434,0.19,E-commerce
+2024-06-19,Bucaramanga,Deportes,Colchoneta,13,76038,0.11,App Movil
+2024-11-08,Cali,Hogar,Cafetera,8,299716,0.11,Catalogo
+14/03/2024,Cali,Ropa,Vestido,12,148700,0.05,Distribuidores
+2024-08-24,Barranquilla,Ropa,Zapatos,10,224783,0.04,Distribuidores
+2024-02-17,Barranquilla,Ropa,Camiseta,12,50034,0.21,Tienda Fisica
+2024-09-28,Cali,Electronica,Camara,8,2401339,0.04,App Movil
+2024-08-22,Bucaramanga,Ropa,Chaqueta,10,180747,0.21,E-commerce
+13/05/2024,Bucaramanga,Hogar,Licuadora,19,194401,0.1,App Movil
+2024-05-06,Cali,Ropa,Jean,5,88618,0.29,Catalogo
+2024-09-28,Cali,Deportes,Cuerda,18,24567,0.25,Catalogo
+2024-05-01,Cali,Alimentos,Snack Saludable,20,11829,0.06,Catalogo
+2024-01-07,Barranquilla,Alimentos,Snack Saludable,4,12101,0.13,Catalogo
+26/11/2024,Bogota,Ropa,Camiseta,20,46205,0.16,App Movil
+2024-12-08,Barranquilla,Deportes,Colchoneta,19,71256,0.01,Catalogo
+2024-08-22,Bucaramanga,Electronica,Laptop,4,-2938609,0.07,App Movil
+2024-09-06,Bogota,Electronica,Smartwatch,20,812582,0.19,App Movil
+2024-03-27,Bogota,Hogar,Aspiradora,4,671223,0.07,App Movil
+2024-09-06,Cali,Hogar,Plancha,5,128139,0.08,Distribuidores
+22/01/2024,Barranquilla,Ropa,Camiseta,6,50896,0.15,Tienda Fisica
+2024-12-24,Bucaramanga,Deportes,Bicicleta,17,1971759,0.04,App Movil
+2024-11-10,Barranquilla,Electronica,Tablet,13,1510885,0.17,Catalogo
+2024-06-03,Bucaramanga,Ropa,Chaqueta,1,154462,0.13,App Movil
+2024-08-03,Cali,Hogar,Aspiradora,12,-660349,0.28,Catalogo
+2024-12-17,Cali,Ropa,Camiseta,12,41181,0.1,App Movil
+2024-06-19,Medellin,Electronica,Smartwatch,12,829203,0.28,Tienda Fisica
+2024-09-11,Bucaramanga,Alimentos,Aceite de Oliva,8,28428,0.09,E-commerce
+2024-03-21,Bogota,Deportes,Tenis,12,276876,,Distribuidores
+18/06/2024,Cali,Ropa,Zapatos,19,214173,0.3,Distribuidores
+2024-06-23,Barranquilla,Hogar,Microondas,3,454638,0.18,E-commerce
+2024-10-05,Barranquilla,Ropa,Zapatos,19,225632,0.14,Distribuidores
+02/01/2024,Bogota,Hogar,Microondas,15,448717,0.19,Distribuidores
+2024-11-26,Medellin,Deportes,Bicicleta,5,1902240,0.31,Catalogo
+05/10/2024,Cali,Alimentos,Aceite de Oliva,15,27127,0.29,Distribuidores
+2024-05-08,Medellin,Ropa,Chaqueta,7,156622,0.26,Tienda Fisica
+2024-02-07,Cali,Ropa,Vestido,15,118222,0.13,Catalogo
+2024-02-21,Barranquilla,Electronica,Tablet,15,1588382,0.13,Distribuidores
+2024-10-22,Medellin,Alimentos,Snack Saludable,2,12784,0.27,Tienda Fisica
+2024-01-07,Barranquilla,Alimentos,Snack Saludable,4,12101,0.13,Catalogo
+2024-09-07,Cali,Hogar,Aspiradora,6,739064,0.32,E-commerce
+2024-09-10,Cali,Deportes,Pesas,10,93522,0.2,Distribuidores
+2024-06-30,Barranquilla,Electronica,Camara,10,2205215,0.12,Tienda Fisica
+2024-03-12,Medellin,Deportes,Colchoneta,3,72153,0.21,Distribuidores
+2024-08-02,Cali,Deportes,Pesas,13,92141,0.06,Distribuidores
+2024-02-15,Bucaramanga,Deportes,Colchoneta,20,85995,0.14,Tienda Fisica
+2024-12-25,Barranquilla,Ropa,Chaqueta,8,180956,0.28,Tienda Fisica
+2024-03-08,Bogota,Alimentos,Snack Saludable,11,13042,0.06,Distribuidores
+2024-02-29,Bogota,Hogar,Aspiradora,5,629257,0.21,App Movil
+2024-04-27,Barranquilla,Alimentos,Proteina,12,89017,0.26,Catalogo
+2024-02-07,Barranquilla,Alimentos,Snack Saludable,15,13093,0.1,App Movil
+2024-07-20,Bucaramanga,Electronica,Laptop,16,3002872,0.13,App Movil
+2024-11-01,Bogota,Ropa,Vestido,5,122116,0.22,Tienda Fisica
+2024-11-26,Bucaramanga,Alimentos,Proteina,10,90773,0.09,Tienda Fisica
+2024-07-21,Cali,Hogar,Licuadora,14,191497,0.25,E-commerce
+2024-06-07,Bucaramanga,Hogar,Microondas,14,482547,0.34,E-commerce
+2024-05-10,Cali,Hogar,Microondas,4,378812,0.26,Distribuidores
+2024-11-25,Bucaramanga,Deportes,Pesas,18,104378,0.35,E-commerce
+2024-01-06,Barranquilla,Ropa,Vestido,17,146447,0.2,Catalogo
+2024-08-20,Bucaramanga,Deportes,Pesas,14,102171,0.32,Distribuidores
+2024-07-29,Barranquilla,Deportes,Cuerda,3,23283,0.11,App Movil
+07/03/2024,Bogota,Deportes,Bicicleta,2,1667667,0.02,Catalogo
+24/07/2024,Bucaramanga,Deportes,Cuerda,14,25898,0.28,App Movil
+2024-07-24,Bucaramanga,Deportes,Cuerda,13,27941,0.26,Tienda Fisica
+2024-11-09,Bucaramanga,Alimentos,Snack Saludable,18,11698,0.23,Tienda Fisica
+2024-04-02,Barranquilla,Deportes,Cuerda,14,25950,,App Movil
+2024-06-13,Bogota,Alimentos,Snack Saludable,11,12783,0.11,Tienda Fisica
+2024-07-03,Bogota,Deportes,Colchoneta,1,85181,0.16,Tienda Fisica
+2024-10-26,Barranquilla,Ropa,Chaqueta,4,170993,0.17,Distribuidores
+2024-06-10,Bogota,Deportes,Tenis,4,289438,0.22,Catalogo
+2024-03-28,Medellin,Deportes,Tenis,20,261990,0.2,Catalogo
+2024-01-28,Medellin,Electronica,Laptop,5,3575002,0.29,App Movil
+2024-08-13,Bogota,Ropa,Camiseta,15,40673,0.05,App Movil
+2024-01-07,Cali,Ropa,Zapatos,13,240854,0.25,Catalogo
+2024-10-30,Bucaramanga,Deportes,Bicicleta,14,1918100,0.05,Tienda Fisica
+2024-01-10,Cali,Ropa,Camiseta,8,51523,0.18,Catalogo
+2024-12-29,Bogota,Ropa,Chaqueta,14,147472,0.31,Distribuidores
+2024-10-10,Medellin,Deportes,Colchoneta,14,79967,0.13,E-commerce
+2024-06-21,Cali,Alimentos,Cafe Premium,5,36607,0.26,Distribuidores
+2024-05-03,Medellin,Alimentos,Granola,14,16207,0.12,Distribuidores
+2024-02-16,Bucaramanga,Hogar,Cafetera,2,265334,,Distribuidores
+2024-05-13,Barranquilla,Electronica,Audifonos,20,339988,0.32,E-commerce
+2024-06-10,Barranquilla,Alimentos,Granola,9,18730,0.2,Distribuidores
+03/07/2024,Medellin,Hogar,Licuadora,6,165908,0.1,Tienda Fisica
+2024-05-28,Cali,Hogar,Licuadora,14,195234,,Distribuidores
+2024-03-01,Medellin,Electronica,Camara,10,2157158,0.1,Catalogo
+2024-01-21,Medellin,Ropa,Vestido,17,138174,,Catalogo
+2024-08-16,Medellin,Deportes,Cuerda,15,24120,0.09,Catalogo
+2024-08-29,Bucaramanga,Electronica,Tablet,3,1374030,0.08,Catalogo
+2024-07-22,Bogota,Ropa,Camiseta,1,45672,0.03,Catalogo
+24/10/2024,Bogota,Hogar,Cafetera,12,305426,0.09,Distribuidores
+2024-03-09,Cali,Electronica,Tablet,11,1451032,0.15,Catalogo
+07/08/2024,Cali,Ropa,Vestido,20,118957,0.34,App Movil
+2024-01-09,Bogota,Deportes,Tenis,18,280794,0.01,App Movil
+2024-11-24,Bucaramanga,Ropa,Chaqueta,18,157246,0.01,Catalogo
+15/06/2024,Medellin,Electronica,Camara,7,2076283,0.09,Catalogo
+2024-11-12,Barranquilla,Ropa,Jean,3,95872,0.04,Distribuidores
+2024-02-02,Barranquilla,Deportes,Cuerda,20,28726,0.19,Catalogo
+2024-12-03,Barranquilla,Ropa,Camiseta,1,46867,,Distribuidores
+2024-03-05,Barranquilla,Alimentos,Cafe Premium,11,36653,0.28,E-commerce
+2024-02-10,Barranquilla,Electronica,Audifonos,17,389037,0.16,E-commerce
+2024-07-06,Bogota,Ropa,Zapatos,2,229365,0.07,Catalogo
+2024-01-21,Cali,Ropa,Chaqueta,8,170677,0.12,E-commerce
+2024-01-11,Barranquilla,Ropa,Chaqueta,12,178695,0.34,Tienda Fisica
+2024-12-04,Cali,Alimentos,Proteina,1,90427,0.35,E-commerce
+2024-05-02,Bogota,Ropa,Chaqueta,19,181878,,E-commerce
+2024-02-22,Bucaramanga,Electronica,Audifonos,9,365630,0.2,Distribuidores
+2024-12-01,Bogota,Alimentos,Aceite de Oliva,16,28448,0.2,E-commerce
+2024-10-27,Medellin,Alimentos,Proteina,4,94216,0.22,Catalogo
+2024-03-17,Cali,Ropa,Camiseta,11,51566,0.22,Tienda Fisica
+2024-04-20,Barranquilla,Hogar,Microondas,19,480544,0.18,Distribuidores
+2024-02-12,Barranquilla,Alimentos,Cafe Premium,15,30254,0.09,E-commerce
+2024-11-29,Medellin,Alimentos,Snack Saludable,14,12654,0.01,App Movil
+2024-01-20,Bucaramanga,Alimentos,Granola,4,16619,0.23,App Movil
+2024-06-23,Barranquilla,Hogar,Microondas,10,459431,0.05,App Movil
+2024-02-02,Barranquilla,Alimentos,Cafe Premium,12,-32906,0.04,Catalogo
+2024-06-18,Cali,Hogar,Aspiradora,7,739425,0.22,Distribuidores
+13/02/2024,Barranquilla,Deportes,Colchoneta,14,82009,0.05,App Movil
+2024-03-22,Bogota,Electronica,Smartwatch,17,800677,0.27,Distribuidores
+2024-12-29,Medellin,Ropa,Jean,18,101990,0.11,App Movil
+2024-07-22,Bogota,Deportes,Tenis,10,293703,,Tienda Fisica
+2024-01-01,Bucaramanga,Ropa,Zapatos,6,246561,0.22,Catalogo
+2024-07-16,Cali,Deportes,Tenis,16,300445,0.13,E-commerce
+2024-10-19,Barranquilla,Hogar,Microondas,14,382583,0.26,E-commerce
+2024-03-21,Cali,Electronica,Laptop,2,3052017,0.3,App Movil
+2024-11-20,Barranquilla,Electronica,Laptop,2,2882837,0.27,Distribuidores
+2024-12-10,Cali,Hogar,Microondas,20,438090,0.2,App Movil
+2024-08-28,Cali,Hogar,Licuadora,20,193172,,Distribuidores
+15/10/2024,Barranquilla,Alimentos,Cafe Premium,14,29648,0.03,Distribuidores
+2024-10-18,Cali,Hogar,Plancha,18,133012,0.11,Catalogo
+2024-12-19,Bucaramanga,Deportes,Cuerda,12,28736,0.17,E-commerce
+2024-07-21,Medellin,Hogar,Aspiradora,15,636379,0.26,Distribuidores
+2024-03-21,Barranquilla,Ropa,Zapatos,9,251454,0.27,Tienda Fisica
+2024-07-17,Bucaramanga,Electronica,Laptop,18,3140901,0.1,Catalogo
+2024-11-01,Bogota,Hogar,Aspiradora,10,664715,0.2,App Movil
+2024-07-09,Cali,Ropa,Camiseta,4,45009,0.34,E-commerce
+2024-05-26,Bogota,Ropa,Vestido,14,143200,0.32,App Movil
+2024-04-11,Barranquilla,Hogar,Licuadora,17,191970,,Tienda Fisica
+2024-09-06,Bogota,Alimentos,Proteina,7,-83307,,Distribuidores
+2024-06-05,Medellin,Alimentos,Cafe Premium,20,35373,0.28,Distribuidores
+2024-10-31,Cali,Alimentos,Granola,20,19868,0.31,Catalogo
+2024-08-07,Cali,Electronica,Audifonos,3,338008,0.34,App Movil
+2024-07-06,Bogota,Hogar,Licuadora,9,196706,0.22,Catalogo
+2024-10-22,Cali,Hogar,Aspiradora,6,665968,0.18,E-commerce
+2024-03-30,Barranquilla,Alimentos,Cafe Premium,1,30414,0.23,Catalogo
+2024-11-04,Cali,Electronica,Smartwatch,3,729806,0.15,Distribuidores
+2024-03-08,Bucaramanga,Hogar,Plancha,16,115290,0.17,App Movil
+2024-07-07,Bucaramanga,Deportes,Pesas,15,103774,,Catalogo
+2024-10-16,Bucaramanga,Deportes,Cuerda,9,23777,0.25,Distribuidores
+2024-10-02,Medellin,Electronica,Tablet,15,1489129,0.33,Catalogo
+2024-09-26,Bogota,Alimentos,Granola,20,16790,0.13,Distribuidores
+01/10/2024,Bogota,Ropa,Vestido,19,139279,0.28,E-commerce
+2024-07-28,Bucaramanga,Hogar,Microondas,9,447363,0.1,App Movil
+2024-06-25,Cali,Alimentos,Aceite de Oliva,18,25258,0.32,Catalogo
